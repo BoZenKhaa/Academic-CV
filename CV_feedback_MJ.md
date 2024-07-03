@@ -8,3 +8,11 @@
 - [Done] Internationalization - neni jasne, ja dlouho jsi tam byl
 - [Done] Asi by bylo dobre rict, jake jazyky a na jake urovni umis (Anglictina etc.)
 - [Done] Dr. Michal Jakob muzes klidne napsat prof. Michal Jakob (associate prof je taky prof, jen ne full prof)
+
+# Notes from Capino
+ - programovaci jazyky - nobody cares
+ - pocty citaci
+ - sw packages
+ - lang a tools niz v CV
+ - quantify everyhing as much as possible
+ - 
